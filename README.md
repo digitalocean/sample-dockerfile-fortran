@@ -1,6 +1,6 @@
 # Getting Started #
 
-These steps will get this sample COBOL application running for you using DigitalOcean. This application compiles two separate COBOL files and hostes them at `/` and `/hal`. This application uses Python's Flask Framework to route and execute the COBOL binaries.
+These steps will get this sample FORTRAN application running for you using DigitalOcean. This application compiles two separate FORTRAN files and hostes them at `/` and `/olde`. This application uses Python's Flask Framework to route and execute the FORTRAN binaries.
 
 **Note: Following these steps will result in charges for the use of DigitalOcean services**
 
