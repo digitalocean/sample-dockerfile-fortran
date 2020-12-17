@@ -1,0 +1,8 @@
+name: sample-dockerfile-fortran
+services:
+- dockerfile_path: Dockerfile
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: digitalocean/sample-dockerfile-fortran
+  name: sample-dockerfile-fortran
